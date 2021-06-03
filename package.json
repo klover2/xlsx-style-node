@@ -1,0 +1,30 @@
+{
+  "name": "xlsx-style-node",
+  "version": "1.0.0",
+  "description": "node 生成xlsx 并且生成样式",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xlsx",
+    "xlsx-style",
+    "node-xlsx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klover2/xlsx-style-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klover2/xlsx-style-node/issues"
+  },
+  "homepage": "https://github.com/klover2/xlsx-style-node#readme",
+  "author": "klover",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "node-xlsx": "^0.16.1",
+    "xlsx": "^0.17.0",
+    "xlsx-style": "^0.8.13"
+  }
+}
