@@ -13,8 +13,9 @@
 
 在 js 中使用
 `const xlsx = require("xlsx-style-node").default;`
+
 在 ts 中使用
-`import * as xlsx from 'xlsx-style-node';`
+`import xlsxStyleNode from 'xlsx-style-node';`
 
 ```js
 const fs = require("fs");
